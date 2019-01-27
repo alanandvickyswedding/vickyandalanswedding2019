@@ -1,0 +1,12 @@
+{
+  "name": "vickyandalanswedding2019",
+  "version": "1.0.0",
+  "description": "Wedding Website",
+  "main": "index.js",
+  "homepage": "https://alanandvickyswedding.github.io/vickyandalanswedding2019",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ross Daly",
+  "license": "MIT"
+}
