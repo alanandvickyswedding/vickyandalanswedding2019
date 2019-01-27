@@ -8,5 +8,8 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Ross Daly",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
