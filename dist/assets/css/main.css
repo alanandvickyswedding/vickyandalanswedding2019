@@ -3951,7 +3951,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/castle3.jpg");
+		background-image: linear-gradient(to right bottom, rgba(104, 92, 121, 0.7), rgba(69, 92, 123, 0.7)), url("images/castle3.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
