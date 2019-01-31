@@ -3954,7 +3954,7 @@ input, select, textarea {
 		background-image: linear-gradient(to right bottom, rgba(104, 92, 121, 0.7), rgba(69, 92, 123, 0.7)), url("images/castle3.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: cover;
 	}
 		#intro h1 {
 			/* font-family: 'Righteous', cursive; */
