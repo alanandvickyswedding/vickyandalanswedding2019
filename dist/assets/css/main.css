@@ -3038,7 +3038,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(242, 177, 52, 0.8);
+				background: rgba(255, 211, 147, 0.7);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3972,7 +3972,7 @@ input, select, textarea {
 			font-weight: 700;
 			font-size: 2.75em;
 			color: #fff;
-			text-shadow: 2px 2px #C28D0C;
+			text-shadow: 2px 2px #FFBC67;
 			text-align: center;
 		}
 		#intro p {
