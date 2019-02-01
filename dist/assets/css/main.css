@@ -4052,4 +4052,11 @@ input, select, textarea {
 			-webkit-transition: all .6s ease-in-out .001s;
 			transition: all .6s ease-in-out .001s;
 			-moz-transform: all .6s ease-in-out .001s;
-		}  
+		}
+		
+		.profile-pic {
+			font-family: 'Dancing Script', cursive;
+			line-height: 3.75rem;
+			font-size: 48px;
+			font-weight: 100;
+		}
