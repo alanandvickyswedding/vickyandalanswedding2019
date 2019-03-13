@@ -2630,7 +2630,7 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style-type: circle;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
