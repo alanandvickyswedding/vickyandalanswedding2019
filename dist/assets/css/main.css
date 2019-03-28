@@ -4221,6 +4221,12 @@ button,
 			
 		}
 
+		#intro span {
+			font-size: .55em;
+			color: #fff;
+			text-shadow: .5px .5px #FFBC67;
+		}
+
 		.barcelona-primary {
 			text-transform: uppercase;
 		}
