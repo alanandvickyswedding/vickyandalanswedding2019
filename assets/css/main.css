@@ -4269,6 +4269,14 @@ button,
 				background-attachment: scroll;
 			}
 
+			#intro.wedding {
+				background-attachment: scroll;
+			}
+
+			#intro.barcelona {
+				background-attachment: scroll;
+			}
+
 		}
 
 		ul.hotels li a {
